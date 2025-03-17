@@ -1,0 +1,1 @@
+First project as part of The Odin Project foundations course to work on basic html and git skills. Website to contain a main index page which will have links to other recipes. CSS to be revised at a later stage.
